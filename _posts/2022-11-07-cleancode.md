@@ -3,7 +3,6 @@ layout: single
 title: 코딩 컨벤션
 ---
 
-# 코딩 컨벤션(코틀린)
 
 코딩 컨벤션 스타일가이드 기준[링크](https://kotlinlang.org/docs/coding-conventions.html)
 
