@@ -4,7 +4,7 @@ title: 코딩 컨벤션
 ---
 
 
-코딩 컨벤션 스타일가이드 기준[링크](https://kotlinlang.org/docs/coding-conventions.html)
+코딩 컨벤션 스타일가이드 기준 [링크](https://kotlinlang.org/docs/coding-conventions.html)
 
 ## 디렉토리 구조
 
