@@ -3,11 +3,11 @@ layout: single
 title: token&sesstion
 ---
 
-##Session 이란?
+## Session 이란?
 
 유저의 정보를 데이터베이스에 저장하고 상태를 유지하는 도구
 
-##Session 특징
+## Session 특징
 
 1. 특수한 아이디 값으로 구성
 2. 서버에서 생성되며 클라이언트에서 쿠키를 통해 저장
@@ -16,11 +16,11 @@ title: token&sesstion
 5. 클라이언트에 사용자 정보가 노출될 위험이 없다.
 6. horizontal scaling이 어렵다.
 
-##Token 이란?
+## Token 이란?
 
 유저의 정보를 base64로 인코딩된 String 값에 저장하는 도구
 
-##Token 특징
+## Token 특징
 
 1. header, payload, signature 로 구성되어 있으며 정보가 들어있다.
 2. 서버에서 생성되며 클라이언트에 저장된다.
